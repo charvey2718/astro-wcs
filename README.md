@@ -3,6 +3,10 @@ Fits a world coordinate systems (WCS) to photographs from all-sky meteor cameras
 
 The motivation behind this was to replace the need for plate solving since I was finding it very difficult to get traditional plate solving tools to work on my all-sky photographs.
 
+Output examples here:
+1. [https://cosmicsands.org/2020/01/04/meteor-camera/](https://cosmicsands.org/2020/01/04/meteor-camera/)
+2. [https://cosmicsands.org/2020/02/01/winter-night-time-all-sky-view/](https://cosmicsands.org/2020/02/01/winter-night-time-all-sky-view/)
+
 ## Files
 
 ### Run files
